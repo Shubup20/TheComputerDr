@@ -1,0 +1,85 @@
+*{
+   padding: 0px;
+   margin: 0px;
+   box-sizing: border-box;
+    
+}
+
+ h1{
+        font-family: 'Prociono', serif;
+    }
+
+.nav-link:hover {
+    color: #0d6efd; /* Bootstrap primary color */
+}
+.nav-link{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.carousel-item img {
+ height: 500px;
+
+}
+.carousel-caption{
+    color: black;
+
+}
+.carousel-caption h1 {
+   font-weight: bold;
+   
+}
+.carousel-caption h4{
+    padding-bottom: 50px;
+}
+.service-text h3 , p {
+    padding-top: 18px;
+  
+}
+.service-text p{
+    font-size: 18px;
+}
+
+.service-text h3{
+    font-weight: 600;
+}
+
+.why-choose h3, p {
+  padding-top: 25px;
+}
+.why-choose img{
+    padding-top: 25px;
+}
+.why-choose h3{
+    font-weight: 600;
+    font-size: 33px;
+}
+.fast-services {
+ background-color: #F7F7F7;
+}
+.fast-services p{
+    font-size: 18px;
+}
+
+.repair-sec{
+    background-image: linear-gradient(to right,rgba(0,0,0,1),rgba(0,0,0,0.5)), url(images/carousel4.jpg);
+    background-size: 100% 100%;
+    height:50vh;
+    width: 100%;
+}
+.repair-sec hr{
+width: 350px;
+}
+.feedback{
+    background-color:  #F7F7F7;
+}
+.text-cust{
+      padding: 80px; /* (top,left-right,bottom) */
+}
+.overlay-text{
+    position:absolute;
+    bottom: 30px;
+    font-size: 20px;
+    background-color: black;
+}
+
